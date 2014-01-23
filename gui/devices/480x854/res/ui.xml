@@ -201,12 +201,6 @@
 			</object>
 
 			<object type="text" color="%text_color%">
-				<font resource="font" />
-				<placement x="%center_x%" y="%row6_text_y%" placement="5" />
-				<text>作者博客: http://www.dianlujitao.com</text>
-			</object>
-
-			<object type="text" color="%text_color%">
 				<condition var1="tw_simulate_actions" var2="1" />
 				<font resource="font" />
 				<placement x="100" y="40" />
